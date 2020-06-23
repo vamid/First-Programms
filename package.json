@@ -1,0 +1,26 @@
+{
+  "name": "first-programms",
+  "version": "1.0.0",
+  "description": "My first programs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamid/First-Programms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamid/First-Programms/issues"
+  },
+  "homepage": "https://github.com/vamid/First-Programms#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
